@@ -1,0 +1,651 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plain, and short rules for pointing periods, and reading sentences grammatically, with the great use of them by M. Lewis ...</title>
+            <author>Lewis, M. (Mark), fl. 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48292</idno>
+            <idno type="STC">Wing L1845</idno>
+            <idno type="STC">ESTC R12011</idno>
+            <idno type="EEBO-CITATION">12426102</idno>
+            <idno type="OCLC">ocm 12426102</idno>
+            <idno type="VID">61856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 944:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plain, and short rules for pointing periods, and reading sentences grammatically, with the great use of them by M. Lewis ...</title>
+                  <author>Lewis, M. (Mark), fl. 1678.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>This item can also be found at reel 1695:11 bound with Wing W909.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English language --  Punctuation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:61856:1" rendition="simple:additions"/>
+            <head>Plain, and ſhort RULES For <hi>POINTING PERIODS,</hi> AND <hi>READING SENTENCES</hi> Grammatically, with the great Uſe of them.</head>
+            <byline>By <hi>M. LEWIS</hi> of <hi>Tottenham.</hi>
+            </byline>
+            <p>THE foundation of the <hi>Syntactical</hi> part of Grammar conſiſts in theſe two things: <hi>To divide a Period into Sentences;</hi> And <hi>To read thoſe Sentences Gram<g ref="char:EOLhyphen"/>matically.</hi> The Maſter builds upon the Sands without a baſis; and the Scho<g ref="char:EOLhyphen"/>lar learns by roat without reaſon, who doth not bottom here. I ſhall offer a few ſhort Rules to both theſe neceſſary things.</p>
+            <div type="part">
+               <head>Rules for pointing a PERIOD.</head>
+               <p>EVery Subject, called the <hi>Nominative Caſe,</hi> and <hi>Finite Verb</hi> (expreſſed, or underſtood) with their Dependents, muſt have a Point, or diſtinction: becauſe the Verb ex<g ref="char:EOLhyphen"/>preſſes, the <hi>ſtate, motion,</hi> or <hi>action</hi> of the Subject, and muſt be ſtopt, or elſe we move in <hi>infinitum,</hi> and cannot begin a new motion. Let this Paragraph be an example.</p>
+               <p>Except. 1. any word, or clauſe (having the import of a Sentence) wherein a <hi>Verb</hi> is virtually contained, may have a ſtop. Such are,</p>
+               <p n="1">1. <hi>Interjections.</hi> As, <hi>Alas,</hi> that is, <hi>it is a ſad caſe, woe is me.</hi>
+               </p>
+               <p n="2">2. <hi>Participles</hi> of the <hi>preſent,</hi> and <hi>preter-tenſe.</hi> As, <hi>God, creating the World, made man. Man, created by God, was placed in Paradiſe.</hi>
+               </p>
+               <p n="3">3. One <hi>Substantive</hi> after another by <hi>appoſition,</hi> having the import of a Sentence. As, <hi>Man, the image of God, was placed in Paradiſe;</hi> otherwiſe not. As, <hi>M.T.C.</hi>
+               </p>
+               <p n="4">4. An <hi>Infinitive mood,</hi> having the import of a Sentence, may be diſtinguiſhed from the preceding Verb. As, <hi>God created man in his image, to be lord of the Creatures,</hi> that is, <hi>that he might be lord of the Creatures.</hi> But, when the <hi>Infinitive mood,</hi> hath the nature of a <hi>Subſtantive,</hi> and depends upon the former Verb, as if it was an <hi>oblique Caſe,</hi> it ought not to be diſtinguiſhed. As, <hi>I deſire to learn,</hi> that is, <hi>I deſire learning.</hi>
+               </p>
+               <p n="2">2. Except the <hi>Vocative caſe</hi> with the <hi>dependents,</hi> which is an extra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entential phraſe, and a preparation to a motion. As, <hi>Son, come hither.</hi>
+               </p>
+               <p n="3">3. Except, when a <hi>Word,</hi> or <hi>Phraſe,</hi> as in <hi>Zeugma,</hi> relates to ſeveral things, it may be diſtinguiſhed from the thing, immediately depending upon it, to ſhew its relation to be indifferent, to that, and to the things, it affects more remotely. As, <hi>God hath given a law, to the fire, air, water, earth.</hi>
+               </p>
+               <p n="4">4. When a Sentence is parted by any intercepting <hi>Clauſe,</hi> the <hi>former</hi> part of the Sen<g ref="char:EOLhyphen"/>tence is diſtinguiſhed from the Clauſe, and the Clauſe from the <hi>latter</hi> part of the Sen<g ref="char:EOLhyphen"/>tence. As, <hi>God, creating the world, gave man dominion over the Creatures.</hi>
+               </p>
+               <p n="5">5. The ſame <hi>Sentence</hi> ſometimes hath a Point in it, when it is in-grammatically placed, to ſhew its diſorder. As, <hi>By an almighty power, God created the world.</hi>
+               </p>
+               <p>I do not intend, a Point <hi>muſt</hi> be made in all theſe caſes. I only ſay, a Point <hi>may</hi> be, and <hi>de facto</hi> many times is, upon theſe grounds. Exact Pointing is beſt. But if we do miſcarry, it is better to under point, then over point.</p>
+               <p>Theſe things are obvious to ordinary capacities, and do fully anſwer my end: to prepare <hi>Engliſh</hi> to be rendered into Latin; and <hi>Latin</hi> to be Analyſed, and rendered into Engliſh: and therein are uſeful to Children.</p>
+               <p>But as a <hi>Point</hi> in general is abſolutely neceſſary to rational inſtructing in the plain <hi>Syntactical</hi> part of Grammar: ſo to underſtand the kinds of Points, when, and where they ſhall be uſed, is as neceſſary to ſome parts of <hi>Rhetorick.</hi> No man can pronounce, and act Artificially out of judgment; or compoſe Oratorically by a Rule, who doth not underſtand the various conſtitutions, and contextures of <hi>Periods</hi> from whence the kinds of Points do ariſe.</p>
+               <p>
+                  <pb n="2" facs="tcp:61856:2"/>As therefore a <hi>Point</hi> in general ariſes from a <hi>Verb</hi> in general, or ſomething <hi>analogous</hi> to it: ſo the <hi>ſpecies</hi> of Points ariſe from the <hi>Verbs</hi> in a Period as they do more intimately; or more remotely relate to one another. Where the dependence is greater, the ſtay between them is leſs; (giving liberty for a lower tone and leſſer action) where the dependance is leſs, the ſtay is greater, the tone higher, and the action more.</p>
+               <p>The Points, diſtinguiſhing a plain Sentence, are a <hi>Period,</hi> a <hi>Colon,</hi> a <hi>Sub-colon,</hi> a <hi>Comma,</hi> which may be compared to thoſe ſtops in Muſick, a <hi>Minim,</hi> a <hi>Crochet,</hi> a <hi>Quaver,</hi> a <hi>Semi-quaver.</hi>
+               </p>
+               <p>To the Rules following I premiſe. A Propoſition, Theme, or Matter treated of is either <hi>Simple;</hi> (As <hi>God created the World. Man is lord of the Creatures</hi>) or it is <hi>Compounded,</hi> in which there is a principal Verb, expreſſed, or ſuppreſſed, and another Verb, or Verbs depending upon it, to explain, enlarge, reſtrain, divide, or confirm the principal Pro<g ref="char:EOLhyphen"/>poſition laid down, to which theſe depending Verbs are united by ſome Conjunction, expreſſed, or underſtood. Let this Paragraph be an example. The principal Sentence ſuppreſſed is, <hi>Propoſitions are twofold.</hi> All, that follows, relates to this.</p>
+               <p>The principal <hi>Verb</hi> in a Period is that, which is the <hi>motion</hi> of the principal ſubject; or doth affect the principal <hi>Object,</hi> ſpoken of. This <hi>Verb</hi> (if it be expreſſed) is the firſt Verb in the Natural, and Grammatical order. But it is often ſuppreſſed, as in the former Paragraph, propoſed for an example.</p>
+               <p>The principal <hi>Theme,</hi> or <hi>Matter</hi> is threefold:
+<list>
+                     <item>1. Of a <hi>Diſcourſe,</hi> or an <hi>Oration;</hi>
+                     </item>
+                     <item>2. Of a <hi>Paragraph,</hi> uſually noted by a Break;</item>
+                     <item>3 Of a <hi>Period</hi> ſtrictly taken.</item>
+                  </list>
+               </p>
+               <p>A <hi>Diſcourſe</hi> may contain ſeveral Paragraphs. A <hi>Paragraph</hi> may contain ſeveral Peri<g ref="char:EOLhyphen"/>ods. Every one of theſe <hi>Periods</hi> have a principal <hi>Verb,</hi> that is, ſuch a Verb, that doth not immediately depend upon another Verb, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>totum.</hi> Put it may depend upon the <hi>Theme</hi> of the Diſcourſe, or Paragraph.</p>
+               <p>This all muſt grant, a great member, or <hi>totum</hi> in a <hi>Period</hi> is diſtinguiſhed from leſſer members, or parts by a greater reſt, then leſſer members are diſtinguiſhed from one another, or from their ſubdividing members, and <hi>exegetical</hi> expreſſions. I mean: a <hi>totum</hi> is diſtinguiſhed from its parts by a <hi>Colon;</hi> the <hi>parts</hi> are diſtinguiſhed from one another by a <hi>Sub-colon; Exegetical</hi> expreſſions to theſe, are diſtinguiſhed by <hi>Comma's.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Rules for a <hi>PERIOD.</hi>
+               </head>
+               <p>A <hi>Period</hi> terminates Senſe, that is abſolute, full, and perfect.</p>
+               <p>
+                  <hi>And ſo</hi> it terminates: either one Sentence, or <hi>categorical</hi> Propoſition; (As, <hi>God created the World, Man is lord of the Creatures.</hi>) Or it terminates more Sentences, diſtin<g ref="char:EOLhyphen"/>guiſhed by leſſer Points: for the principal motion ought to have a greater teſt, than the leſs principal. Any Paragraph in this diſcourſe is an Example.</p>
+            </div>
+            <div type="part">
+               <head>Rules for a <hi>COLON.</hi>
+               </head>
+               <p>A <hi>Colon</hi> diſtinguiſhes Sentences, that are a <hi>protaſis,</hi> and an <hi>apod<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſis;</hi> a <hi>Propoſition,</hi> and the <hi>reaſon;</hi> a <hi>ſimilitude,</hi> and the <hi>application;</hi> a <hi>totum,</hi> and its <hi>members.</hi> As, <hi>God alone could create the World: becauſe he is Omnipotent.</hi> As <hi>God hath created the World: ſo he pre<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erves it. Having Creatures are of two ſorts: Men; and Brutes.</hi>
+               </p>
+               <p>A <hi>Colon</hi> is likewiſe uſed, when Sentences ſeem <hi>abſolute</hi> (but are not): becauſe the <hi>totum</hi> is, either remote, or ſuppreſſed. As, <hi>The Flint ſtrikes fire: the Load stone draws Iron: the Touch ſtone tries Mettah: the Purnice-ſtone ſmooths rough things.</hi> The <hi>totum</hi> ſup<g ref="char:EOLhyphen"/>preſſed, is this, <hi>Stones ſerve for divers uſes.</hi> If this <hi>totum</hi> was expreſſed, it ſhould be di<g ref="char:EOLhyphen"/>ſtinguiſhed from the parts by a <hi>colon,</hi> and theſe Sentences, or parts from one another by a <hi>ſub-colon.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Rule of a <hi>Sub-COLON.</hi>
+               </head>
+               <p>A <hi>Sub-colon</hi> is uſed to diſtinguiſh <hi>membra dividentra</hi> in a large ſenſe, which are <hi>oppo<g ref="char:EOLhyphen"/>ſites,</hi> or at leaſt <hi>disparates.</hi> At, <hi>Angels are good; or bad.</hi>
+               </p>
+               <p>This <hi>totum</hi> is often ſuppreſſed, and many times defer'd to the cloſe of the Period.</p>
+            </div>
+            <div type="part">
+               <head>Rules for a <hi>COMMA.</hi>
+               </head>
+               <p>A <hi>Comma</hi> is uſed to diſtinguiſh Sentences, that have a nearer relation one to ano<g ref="char:EOLhyphen"/>ther, and a greater dependencie one upon another, then <hi>membra dividentia</hi> have. Such are: 1. <hi>Membra ſubdividentia;</hi> Sentences united by any Conjunction, that do not come under any of the three former Rules; the <hi>Vocative</hi> Caſe; and <hi>Interjections.</hi>
+               </p>
+               <p n="2">
+                  <pb n="3" facs="tcp:61856:2"/>2. <hi>Exegetical</hi> expreſſions; Subſtantives by appoſition; the <hi>Infinitive</hi> mood; tranſpoſed, or intercepting Clauſes, and ſuch like. Theſe, if we would be accurate, ought to be diſtinguiſhed by a leſſer note then a Comma, if we had any ſuch: becauſe theſe have a nearer relation one to another, then thoſe under the former head. This whole diſ<g ref="char:EOLhyphen"/>courſe may be an Example.</p>
+               <p>
+                  <hi>Enumerations</hi> are many times ſo Oratorically digeſted by pairs, that they ſeem to be <hi>membra dividentia,</hi> but are not. As, <hi>I am perſwaded, that neither life, nor death, nor prince<g ref="char:EOLhyphen"/>palities, nor powers, nor things preſent nor things to come,</hi> &amp;c.</p>
+               <p>If the Caſe be ſo nice, that you cannot determine, whether there is only an <hi>enume<g ref="char:EOLhyphen"/>ration;</hi> or the Clauſes are <hi>membra dividentia,</hi> uſe ſuch a diſtinction, as will make the ſenſe moſt plain, with reſpect to the points above, and below.</p>
+               <p>Theſe are all the ordinary <hi>Points</hi> Grammarians have aſſigned, but are too few, as ap<g ref="char:EOLhyphen"/>pears by the Rules for a Comma, and may be further illuſtrated by this example fol<g ref="char:EOLhyphen"/>lowing, where there is the <hi>totum</hi> diſtinguiſhed from its members by a Colon; the principal <hi>membra dividentia</hi> by a ſub-Colon; the <hi>membra ſubdividentia</hi> by a Comma; laſtly you have <hi>exegetical</hi> expreſſions, diſtinguiſhed by <hi>ſub-Comma's,</hi> if there was ſuch a Point. I preſume to add it, and aſſign it this Character (<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>). As, <hi>God created the world: firſt the Heavens, where there is the Sun, the fountain of light, the Moon, borrowing her light from the Sun, the Stars, varying their magnitudes; the earth, containing the Sea, the confluence of water, the dry land, ſupporting living Creatures.</hi> Here you ſee we are neceſſitated to uſe a ſub-Comma, or to uſe a Comma promiſeuouſly: Therefore in all caſes, that you may be diſtinct, begin with as <hi>great</hi> a Point, as the compaſs of your Period will bear. In ſome caſes it is tollerable to ſet the Point a note, or two too high, though beſides the Rule: becauſe the ſub-diviſions (being numerous) are more ſubject to confuſion, and the end of Points is, to make the Period diſtinct in its parts; and intelligible in its ſenſe. As, <hi>God created this great, and wide abyſs, which we call the World, and all the parts of it<g ref="char:punc">▪</g> and first the Heavens, where we have the higheſt, or third heaven, the bleſſed aboad of Saints, and Angels: then the heaven, or firmament: in which we behold the Sun, the fountain of light, and heat; the Moon, the governeſs of moiſt things, borrowing her light from the Sun; the Stars, and Planets, differing in magnitude, light, and influence from each other<g ref="char:punc">▪</g> Then ſecondly this terraqueous Orb, we call the Earth<g ref="char:punc">▪</g> where is the Sea, the confluence of waters, and habitation of Fiſhes: and dry land, the houſe and nurſe of men, and beaſts<g ref="char:punc">▪</g> Laſtly, there is the Airy region<g ref="char:punc">▪</g> in which the birds do play, and ſport themſelves, and without which no breathing Animal can live.</hi> In this diſcourſe you have <hi>three</hi> ſorts of Period: he <hi>firſt</hi> is <hi>periodus pendens,</hi> ſet above the line; the <hi>two</hi> next are <hi>periodi media,</hi> ſet in the line; the <hi>last</hi> is <hi>periodus ſupina</hi> ſet be<g ref="char:EOLhyphen"/>low the line. You have alſo Comma's and ſub-Comma's, and all little enough. Such a caſe as this is, ſeldome occurs. The greater members are diſtinguiſhed from the leſſer, the leſſer from the leaſt by proportionable ſtops.</p>
+               <p>Doubtleſs a <hi>ſub-Comma</hi> would be of great uſe in ſuch Periods, as this, and to diſtin<g ref="char:EOLhyphen"/>guiſh Sentences that are under the <hi>ſecond</hi> head for a Comma. I could heartily wiſh ſome perſons, of authority in the world, would aſſert it.</p>
+               <p>As a key to this whole diſcourſe, I only beg ſome point to be certain (I do not much matter which) from which all the other Points may take their compaſs. As in Ringing four Bells, the ſecond is uſually made (and therefore called) the certain, ac<g ref="char:EOLhyphen"/>cording to the motion of which, the little Bell below, and the greater Bells above, do riſe, fall, or keep their pitch: So I would chooſe a ſub-Colon certain, and to be uſed only to diſtinguiſh <hi>membra dividentia</hi> in ordinary caſes, i.e. Clauſes that are <hi>oppoſit,</hi> or <hi>diſ<g ref="char:EOLhyphen"/>parate.</hi> What ever Sentences (as in the Rules for a Comma) are below this, ſhall be Comma'd; what ever are above it, ſhall be Colon'd. Abſolute Sentence: ſhall terminate in a Full point ordinarily. In extraordinary caſes, extraordinary courſes muſt be ta<g ref="char:EOLhyphen"/>ken, as in the laſt Example.</p>
+               <p>I purpoſely omit to ſay any thing of <hi>other</hi> Points: becauſe many Grammarians have ſpoken plainly enough to them.</p>
+               <p>I offer theſe Rules only as an <hi>Eſſay,</hi> ſubmitting them to better Judgments. I hope, by an accurate obſervation of all contextures, they may be made more perfect.</p>
+               <p>I proceed to <hi>Rules</hi> directing to read Grammatically: becauſe neither Sentences: nor
+<pb n="4" facs="tcp:61856:3"/>
+Periods can be rightly diſtinguiſhed, unleſs the Natural, and Grammatical order of them be firſt apprehended.</p>
+            </div>
+            <div type="part">
+               <head>Rules for reading Grammatically.</head>
+               <p n="1">
+                  <hi>R.</hi> 1. EVery Sentence conſiſteth of a <hi>Subſtantive,</hi> called the Nominative Caſe, and a <hi>Verb</hi> (expreſſed, or underſtood) with their Dependents. The <hi>Dependents</hi> of the Verb are thoſe words, which it affects with its motion mediately; or immediately.</p>
+               <p>Except a <hi>Vocative Caſe,</hi> and any word, or clauſe, having the import of a Sentence, where the Verb is virtually. Theſe are ſometimes <hi>Conjunctions, Inter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ections, Participles</hi> of the <hi>preſent,</hi> and <hi>pretertenſe,</hi> one <hi>Subſtantive</hi> after another by <hi>appoſition,</hi> the <hi>Infinitive Mood,</hi> &amp;c with their Dependents. You have Examples for theſe in the general Rules for Pointing.</p>
+               <p n="2">
+                  <hi>R.</hi> 2. The <hi>Nominative Caſe</hi> begins the Sentence, with which the Verb agrees.</p>
+               <p>Except, a <hi>Conjunction,</hi> the <hi>oblique</hi> Caſes of <hi>Relatives, Interrogatives,</hi> or <hi>Partitives</hi> do begin the Sentence. As, <hi>What book doſt thou read? Thou didſt meet with my brother, whom thou didſt ſalute, he will direct, what Book I ſhall read.</hi>
+               </p>
+               <p n="3">
+                  <hi>R.</hi> 3. The <hi>Nominative caſe</hi> ſtands before the Verb.</p>
+               <p>Except, it ſtands after the Verb to diſtinguiſh Demanding, and Commanding from Shewing. As, <hi>Loveſt thou? doſt thou love? let a man love. Love thou.</hi>
+               </p>
+               <p>Except, <hi>Nor, neither,</hi> or <hi>there</hi> do go before the Verb. As, <hi>Neither can I learn, how there came a man into my houſe.</hi>
+               </p>
+               <p n="4">
+                  <hi>R.</hi> 4. The <hi>Nominative caſe</hi> ſtands immediately before the Verb.</p>
+               <p>Except, a <hi>Genitive caſe,</hi> or a <hi>Gerund</hi> in <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> analogous to a Genitive caſe, do come between. As, <hi>The lord of the Creatures was made after God's image.</hi>
+               </p>
+               <p>An <hi>Adjective,</hi> governing a Caſe, a <hi>Participle,</hi> a <hi>Relative,</hi> a <hi>Conjunction</hi> with their Dependents, may part the Nominative caſe and Verb. As, <hi>A man doth labour,</hi> may be thus parted. <hi>A man deſirous of honour, deſiring honour, which doth deſire honour, if he doth deſire honour, doth labour.</hi>
+               </p>
+               <p>Theſe Clau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es may be placed after the Verb. As, <hi>A man doth labour, if he doth deſire honour.</hi>
+               </p>
+               <p n="5">
+                  <hi>R.</hi> 5. Every <hi>Adjective</hi> may have a <hi>Substantive</hi> after it, with which it doth agree.</p>
+               <p>Except, <hi>Participles,</hi> and <hi>Adjectives,</hi> governing Caſes, have their <hi>Substantives</hi> before them. As, <hi>God creating man,</hi> &amp;c. <hi>A man deſirous of honour.</hi>
+               </p>
+               <p n="6">
+                  <hi>R.</hi> 6. Every <hi>Verb</hi> may have a ſign of a <hi>Mood,</hi> or <hi>Tenſe.</hi>
+               </p>
+               <p>Except the Verb is a ſign of a Mood, or Tenſe; or do follow a Verb, that is the ſign of a <hi>Mood,</hi> or <hi>Tenſe.</hi> As, <hi>God alone can create.</hi>
+               </p>
+               <p n="7">
+                  <hi>R.</hi> 7. Every <hi>Subſtantive</hi> may have a ſign of a Caſe, by which it is governed.</p>
+               <p>Except. 1. <hi>Pronoun Subſtantives</hi> in the Accuſative caſe. As, <hi>Me, us, thee you him, her, it, them,</hi> which will not admit a general Sign.</p>
+               <p>2. Except, 1. The <hi>Subſtantive</hi> coming after <hi>Dignus, indignus opus,</hi> and <hi>uſus</hi> ſignifying need. 2. After Verbal, in <hi>Bilis,</hi> and Paſſive Participles. 3. After Verbs of Comparing, being angry with, to meet with. 4. The word coming after Verbs of <hi>Eſteeming.</hi> 5. Proper names of Leſſer places, and <hi>Humi, domi, militiae, bells.</hi> 6. The word coming after <hi>Satago, miſereor miſereſeo.</hi> 7. After <hi>Intereſt</hi> and <hi>reſert.</hi> 8. After Verbs of <hi>wanting,</hi> and <hi>potior.</hi> 9. After <hi>Fungor, fruor, utor.</hi> 10. After certain Verbs ſignifying <hi>profit, diſ<g ref="char:EOLhyphen"/>profit,</hi> &amp;c. where <hi>TO</hi> is implyed. 11. <hi>Appoſition.</hi> 12. The <hi>Ablative Caſe</hi> abſolute. 13. The word of <hi>Price.</hi>
+               </p>
+               <p>Theſe <hi>Rules</hi> for <hi>Pointing,</hi> and <hi>Reading,</hi> primarily intended for the <hi>Engliſh</hi> Tongue, are applicable to other Languages with a little alloy.</p>
+               <p>When we underſtand theſe Rules, and can decline <hi>Nouns,</hi> and form <hi>Verbs,</hi> there remains only the <hi>Propria quae maribus, As in praeſenti,</hi> and the <hi>Syntax,</hi> which are made thus ſhort, and plain.</p>
+               <p>Firſt, The <hi>Propria qua maribus</hi> is reduced to five ſpecial Rules thus:
+<list>
+                     <item>1. All <hi>Nouns</hi> of the firſt, and fith Declenſion are of the <hi>Feminine</hi> Gender.</item>
+                     <item>2. All <hi>Nouns</hi> of the ſecond, and fourth Declenſion are of the <hi>Maſculine</hi> Gender.</item>
+                     <item>3 All <hi>Nouns</hi> of the third Declenſion ending in <hi>An, in, on, o er, or, os,</hi> are <hi>Maſculine.</hi>
+                     </item>
+                     <item>4. All <hi>Nouns</hi> of the third Declenſion in <hi>x</hi> and <hi>s,</hi> are the <hi>Feminine.</hi>
+                     </item>
+                     <item>5. All <hi>Nouns</hi> of the third Declenſion in <hi>us,</hi> &amp;c. are <hi>Neuter.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>A few Exceptions will perfect theſe Rules.</p>
+               <p>
+                  <pb n="5" facs="tcp:61856:3"/>Secondly, The <hi>As in praeſenti</hi> is reduced to three Rules.</p>
+               <list>
+                  <item>1. All Verbs in <hi>O</hi> impute are of the firſt Conjugation, and do make <hi>Avi</hi> in the Preter<g ref="char:EOLhyphen"/>perfect tenſe, and <hi>Atum</hi> in the Supine.</item>
+                  <item>2. All Verbs in <hi>Eo</hi> are of the ſecond Conjugation, and do make <hi>ui,</hi> and <hi>itum.</hi>
+                  </item>
+                  <item>3. All Verbs in <hi>Io</hi> are of the fourth Conjugation, and make <hi>Ivi,</hi> and <hi>itum.</hi>
+                  </item>
+               </list>
+               <p>All Verbs of the third Conjugation are enumerated. All <hi>Irregular</hi> Verbs of the firſt, ſecond, and fourth Conjugation are alſo enumerated, and ought to be learnt by Begin<g ref="char:EOLhyphen"/>ners, as a <hi>Vocabulary:</hi> becauſe they are generally Primatives, and words of moſt fre<g ref="char:EOLhyphen"/>quent uſe.</p>
+               <p>Thirdly, The <hi>Syntax</hi> is reduced to three Rules, according to the number of words de<g ref="char:EOLhyphen"/>clined, and are all contained in the Rules for reading Grammatically.</p>
+               <list>
+                  <item>1. Every Verb hath Number, and Perſon by the <hi>Nominative Caſe,</hi> which is a <hi>Subſtantive</hi> placed before it: becauſe the Verb is not determined in theſe.</item>
+                  <item>2. Every <hi>Adjective</hi> hath Number, Caſe, and Gender by the <hi>Substantive</hi> following. This comprehends the <hi>Antecedent</hi> and <hi>Relative.</hi> The Adjective is not determined.</item>
+                  <item>3. Every other <hi>Subſtantive</hi> is governed of the word before it, on which it depends, according to the Sign of the Caſe.</item>
+               </list>
+               <p>Theſe Signs are <hi>Of to, for, with, from, by, then, in, at, a, the,</hi> which two laſt are onely general Signs.</p>
+               <p>
+                  <hi>The streſs of the</hi> Syntax <hi>lies in theſe Rules for the government of the</hi> Subſtantive. <hi>How eaſy it is by the Signs of Caſes in compariſon of</hi> Lilly's <hi>Rules, founded upon the ſignification, or enumerations of the preceding Word (being in number</hi> Fifteen ſcore) <hi>will appear by the following compariſon.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">LILLIES Rules.</cell>
+                        <cell role="label">
+                           <hi>R. by the ſigns of Caſes.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1. <hi>Qaum duo Subſtantiva.</hi>
+                              </item>
+                              <item>2. <hi>Adjectivum in Neutro genere.</hi>
+                              </item>
+                              <item>3. <hi>Laus &amp; vituperium rei.</hi>
+                                 <list>
+                                    <item>A Genitive is true <hi>Latin,</hi>
+                                    </item>
+                                    <item>An Ablative more elegant.</item>
+                                 </list>
+                              </item>
+                              <item>4. <hi>Adjectiva quae ad copiam.</hi>
+                                 <list>
+                                    <item>A Genitive is true <hi>Latin,</hi>
+                                    </item>
+                                    <item>An Ablative more elegant.</item>
+                                 </list>
+                              </item>
+                              <item>5. <hi>Adjectiva quae deſiderium.</hi>
+                              </item>
+                              <item>6. <hi>Adjectiva verbalia in</hi> Ax.</item>
+                              <item>7. <hi>Nomina Partitiva.</hi>
+                              </item>
+                              <item>8. <hi>Comparativa &amp; Superlativa.</hi>
+                              </item>
+                              <item>9. <hi>Sum Genitivum poſtulat.</hi>
+                              </item>
+                              <item>10. <hi>Verba accuſandi.</hi>
+                              </item>
+                              <item>11. <hi>His imperſonalibus poenitet.</hi>
+                              </item>
+                              <item>12. <hi>Participiorum voces.</hi>
+                              </item>
+                              <item>13. <hi>Quadam adverbia loci.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <p>
+                              <hi>Of</hi> after a Subſtantive or Adjective is a ſign of the Genitive Caſe. As, <hi>The love of Mony.</hi>
+                           </p>
+                           <p>
+                              <hi>Deſirous of Mony,</hi>
+                           </p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1. <hi>Paſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>ivis additur Ablativus.</hi>
+                              </item>
+                              <item>2. <hi>Quadam accipiendi.</hi>
+                              </item>
+                              <item>3. <hi>Moercor cum Adverb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>s.</hi>
+                              </item>
+                              <item>4. <hi>Diverſa verbis implendi, &amp; onerandi.</hi>
+                              </item>
+                              <item>5. <hi>Verbum imperſonale paſsiva vocis.</hi>
+                              </item>
+                              <item>6. <hi>Vapulo, veneo, liceo.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <hi>Of</hi> after a Verb is made by a Prepoſition. <hi>He is praiſed of the Mr.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1. <hi>Adjectiva quibus commodum.</hi>
+                              </item>
+                              <item>2. <hi>Huc referuntur nomina.</hi>
+                              </item>
+                              <item>3. Opus <hi>adjective pro ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>eſſarius.</hi>
+                              </item>
+                              <item>4. <hi>Numeralia in alio ſenſis.</hi>
+                              </item>
+                              <item>5. <hi>Nomina diverſitatis.</hi>
+                              </item>
+                              <item>6. <hi>Exoſus &amp; peroſus.</hi>
+                              </item>
+                              <item>7. <hi>Omnia verba acquiſitive.</hi>
+                              </item>
+                              <item>8. <hi>Verba ſignificantia Commodum.</hi>
+                              </item>
+                              <item>9. <hi>Verba Comparandi.</hi>
+                              </item>
+                              <item>10. <hi>Verba dandi.</hi>
+                              </item>
+                              <item>11. <hi>Verba promittendi.</hi>
+                              </item>
+                              <item>12. <hi>Verba fidendi.</hi>
+                              </item>
+                              <item>13. <hi>Verba imperandi, &amp; nuntiandi</hi>
+                              </item>
+                              <item>14. <hi>Verba obſequendi.</hi>
+                              </item>
+                              <item>15. <hi>Verba minandi.</hi>
+                              </item>
+                              <item>16. <hi>Sum cum compoſitis.</hi>
+                              </item>
+                              <item>17. <hi>Verba compoſita cum prae,</hi> ad. This is an uncertain Rule. <hi>Mutant Dativum aliquoties in a<g ref="char:EOLhyphen"/>lium caſum.</hi> It is according to the Sign uſually, when that ſails, Authority is the beſt Rule.</item>
+                              <item>18. <hi>Eſt pro habeo.</hi>
+                              </item>
+                              <item>19. <hi>Huic confine eſt ſupperit.</hi>
+                              </item>
+                              <item>20. <hi>Sum eum compoſitis.</hi>
+                              </item>
+                              <item>21. <hi>In dativum <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>er<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                       <desc>••</desc>
+                                    </gap>tur hac.</hi>
+                              </item>
+                              <item>22. <hi>Quadam adverbia.</hi>
+                              </item>
+                              <item>23. <hi>Eſt etiam ubi in Dativum.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <p>
+                              <hi>To</hi> before a Subſtan<g ref="char:EOLhyphen"/>tive, and <hi>For,</hi> are ſigns of a Dative.</p>
+                           <p>
+                              <hi>For</hi> is ſometimes made by a Prepoſi<g ref="char:EOLhyphen"/>tion, Hard to be deter<g ref="char:EOLhyphen"/>mined by a Beginner.</p>
+                           <p>
+                              <hi>For,</hi> the Cauſe, is alwaies the Ablative.</p>
+                           <p>
+                              <hi>Do tibi, pignori</hi> [pro <hi>pignore], cauſâ honoris.</hi>
+                           </p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1. <hi>His vero attinet, pertinet,</hi> &amp;c.</item>
+                              <item>2. <hi>Ex his quadam efferuntur.</hi>
+                              </item>
+                              <item>3. <hi>Quaedam variam habent conſtructionem.</hi>
+                              </item>
+                              <item>4. <hi>Nomina appellativa.</hi>
+                              </item>
+                              <item>5. <hi>Verbis ſignificantibus motum ad locum.</hi>
+                              </item>
+                              <item>6. <hi>Ad hunc modum utimur</hi> Rus.</item>
+                           </list>
+                        </cell>
+                        <cell>After <hi>attinet, pertinet, ſpectat, loquor, hortor, invito provoco, addo, voco,</hi> and words of Motion, <hi>To</hi> is made by <hi>Ad. Ambulo</hi> ad <hi>templum.</hi>
+                        </cell>
+                     </row>
+                     <pb n="6" facs="tcp:61856:4"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>To</hi> before a Verb is a ſign of the Infinitive Mood Active. <hi>Cupio amare.</hi>
+                           <list>
+                              <item>1. Except after Subſtantives and Adjectives governing a Ge<g ref="char:EOLhyphen"/>nitive Caſe, <hi>To</hi> is made by a Gerund in <hi>Di. Tempus a<g ref="char:EOLhyphen"/>mandi.</hi>
+                              </item>
+                              <item>2. After <hi>aptus, paratus, tardus,</hi> and Verbs of Exhorting, ex<g ref="char:EOLhyphen"/>citing, and prevailing, a Gerund in <hi>Dum. Aptus ad aman<g ref="char:EOLhyphen"/>dum.</hi>
+                              </item>
+                              <item>3. <hi>About To</hi> is the Future in <hi>Rus. Amaturus.</hi>
+                              </item>
+                              <item>4. After words of Motion, the firſt Supine. <hi>Venit amatum.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <p>
+                              <hi>To <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>e</hi> is the Infini<g ref="char:EOLhyphen"/>tive Mood Paſſive. <hi>Cupit amari.</hi>
+                              <list>
+                                 <item>Except. 1. After Verbs Subſtantives, and Noun Subſtantives, the Future in <hi>Dus. Est homo amandus.</hi>
+                                 </item>
+                                 <item>2. After certain Adjectives, <hi>eaſy, hard, worthy, unworthy,</hi> &amp;c. The latter Supine, <hi>facilis amatu.</hi>
+                                 </item>
+                              </list>
+                           </p>
+                           <p>There are not Rules found in <hi>Lilly</hi>'s Syntax to anſwer theſe, except thoſe two, <hi>prius Supinum,</hi> and <hi>poſterius</hi> Supinum.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1. <hi>Adjectiva regunt allativum.</hi>
+                              </item>
+                              <item>2. <hi>Forma vel modus rei.</hi>
+                              </item>
+                              <item>3. <hi>Praeditus contentus.</hi>
+                              </item>
+                              <item>4. <hi>Verba abundandi.</hi>
+                              </item>
+                              <item>5. <hi>Quedvis verbum,</hi> &amp;c.</item>
+                              <item>6. <hi>Adverbia diverſitatis.</hi>
+                              </item>
+                              <item>7. <hi>Tanto, quanto.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <hi>With,</hi> and <hi>by</hi> the Cauſe, or Manner, and after Comparatives and Su<g ref="char:EOLhyphen"/>perl. is a ſign of the <hi>All.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1. <hi>Nomina diverſitatis.</hi>
+                              </item>
+                              <item>2. <hi>Numeralia in alio ſenſis.</hi>
+                              </item>
+                              <item>3. <hi>Natus, prognatus.</hi>
+                              </item>
+                              <item>4. <hi>Diverſa verbis implendi.</hi>
+                              </item>
+                              <item>5. <hi>Verbis ſignificantibus motum à loco.</hi>
+                              </item>
+                              <item>6. <hi>Ad cundem modum uſurpatur.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <hi>From</hi> is made by a Prepoſition, expreſſed, or underſtood.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1. <hi>Nomina appellativa.</hi>
+                              </item>
+                              <item>2. <hi>Quibuſlibet verbis ſubjicitur.</hi>
+                              </item>
+                              <item>3. <hi>Qua ſignificant partem.</hi>
+                              </item>
+                              <item>4. <hi>Ve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>um ſi proprium nomen loci.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <hi>In,</hi> or <hi>At,</hi> a Prepo<g ref="char:EOLhyphen"/>ſition.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1. <hi>Verba tranſitiva.</hi>
+                              </item>
+                              <item>2. <hi>Quin etiam verba intranſitiva.</hi>
+                              </item>
+                              <item>3. <hi>Hac imperſonalia accuſandi.</hi>
+                              </item>
+                              <item>4. <hi>His imperſonalibus ſubjicitur.</hi>
+                              </item>
+                              <item>5. <hi>Quae autem durationem.</hi>
+                              </item>
+                              <item>6. <hi>Magnitudinis menſura.</hi>
+                              </item>
+                              <item>7. <hi>Ex his quaedam efferuntur.</hi>
+                              </item>
+                              <item>8. <hi>Quaedam variam habent conſtructionem.</hi> The variety is accor<g ref="char:EOLhyphen"/>ding to the Sign.</item>
+                              <item>9. <hi>Spatium loci,</hi> &amp;c.</item>
+                              <item>10. <hi>Adverbia accuſandi caſum admittunt.</hi>
+                              </item>
+                              <item>11. <hi>En, ecce,</hi> and <hi>cedo</hi> govern an Accuſative Caſe, and are not <hi>Ad<g ref="char:EOLhyphen"/>verbs,</hi> but defective <hi>Verbs.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <hi>A,</hi> or <hi>The,</hi> which are not particular ſigns, or no ſigns at all, ſhall be the Accu<g ref="char:EOLhyphen"/>ſative. <hi>Do veſtem. Deus amat hominem.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Hanc Accuſativum <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>utant authores,</hi> &amp;c.</p>
+               <p>
+                  <hi>Ingens praterea adjectivorum turba nullis obſtri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a regulis,</hi> &amp;c.</p>
+               <p>Theſe mutations are determined by the ſigns of Caſes, commonly.</p>
+               <p>A Participle of the Preſent tenſe, having a ſign of a Genitive Caſe, is a Gerund in <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Time of loving. Tempus amandi.</hi>
+               </p>
+               <p>A Participle of the Preſent tenſe, having a ſign of an Ablative Caſe, is a Gerund in <hi>Do. Hindred in loving. Impeditus amando.</hi>
+               </p>
+               <p>Conſider how obſcure <hi>Lilly</hi>'s Rules are for Gerunds.</p>
+               <p>I have on purpoſe omitted the Exceptions: becauſe they juſt balance one another, and are enumerated in the Rules for reading Grammatically, with which you may compa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Lillies</hi> Grammar.</p>
+               <p>If the Scholar ſhould be inſtructed only in the Rules for Signs of Caſes and never be troubled with more then three Exceptions, he might be eaſily perfected in all the reſt by Examples, it may be, better then by Rules.</p>
+               <p>By this Grammar, one, that hath loſt his <hi>Latin</hi> Tongue, may in a few daies, after many years diſcontinuance, recover the Grammar of it, though he never had any perfection in it. This I have often tried, and am ready again to demonſtrate.</p>
+               <pb n="7" facs="tcp:61856:4"/>
+               <p n="1">1. Conſider, If you peruſe <hi>Lillies</hi> Grammar, Whether all the fundamental Rules, neceſſary for a Beginner to learn, are not comprehended under theſe few Rules by the Signs of Caſes? The Rules for Elegancy are of a ſecond conſideration, and many variations from the Signs of Caſes are <hi>Greciſms,</hi> and ſo will aptly fall in with the <hi>Greek</hi> Tongue, the Syntax of which is accommodated to this method.</p>
+               <p n="2">2. Conſider, Whether by this <hi>Syntax</hi> it is not eaſy to begin to Make <hi>Latin,</hi> before we begin to Perſe, as <hi>Lilly</hi> directs in his Preface to his Grammar? There being no more in the government of Subſtantives to be conſidered, then what ſign the Sub<g ref="char:EOLhyphen"/>ſtantive hath: If it hath no particular ſign, it muſt be the Accuſative Caſe; or if it have a ſign, it is made according to that ſign.</p>
+               <p n="3">3. Conſider, Whether the impoſſibility of uſing <hi>Lillies</hi> Syntax is not the reaſon, why all neglect <hi>Lillies</hi> Directions, to Make <hi>Latin,</hi> before they begin to Perſe?</p>
+               <p n="4">4 Conſider, Whether thoſe, that learn <hi>Lillies</hi> Syntax, do not get the Tongue meerly by habit, burdened with a huge fardle of uſeleſs Rules; or at the beſt, they make their <hi>Latin</hi> at firſt by ſigns of Caſes (not allowed for Rules) till they have got the habit?</p>
+               <p n="5">5. Conſider, Whether this is not the reaſon, that all men do forget their Gram<g ref="char:EOLhyphen"/>mar, as ſoon as they have got the Tongue: becauſe the Grammar, as to the <hi>Syntax,</hi> being of no uſe in getting the <hi>Lingua,</hi> is of no uſe in keeping it, neither can it be of any uſe in recovering it, when once loſt: becauſe we do no learn the Tongue by the Rule, but by a frequent application of numerous Examples to the Rules, we come to underſtand them, and that principally by the Signs.</p>
+               <p n="6">6. Conſider, Whether <hi>Lillies</hi> Rules underſtood excluſively (as moſt apprehend them) are not falſe? Moſt words do govern other Caſes, then thoſe the Rules aſſign, and yet direction is ſeldome given (ſuch as a Child can underſtand) when they have thoſe other Caſes.</p>
+               <p n="7">7. Conſider, If the Rules be underſtood incluſively (as <hi>Lilly</hi> intends) <hi>Eidem verbo diverſi caſus diverſâ ratione apponi poſſunt.</hi> Whether the Rules are not then impracticable; becauſe to underſtand this <hi>diverſa ratio,</hi> it is neceſſary to have <hi>three hundred</hi> words enu<g ref="char:EOLhyphen"/>merated, and Rules ſo perfect, as to ſee them, as it were, at one look, which is impoſſible for one of ordinary parts to do, and then the whole <hi>Syntax</hi> falls to the ground.</p>
+               <p>Thoſe that think this may be done, let them make a tryal themſelves upon that Rule in the <hi>Greek</hi> Grammar, <hi>Verba incipiendi, deſinendi, appetendi, amandi,</hi> &amp;c. where there are but twenty heads enumerated. If Verbs named cannot be reduced readily and judici<g ref="char:EOLhyphen"/>ouſly by a man to theſe twenty, how ſhall a Child do with fifteen times ſo many?</p>
+               <p>Thus the <hi>Rules</hi> of Grammar (ſo much contended about) are made plain, and ſhort. A little Grammar will ſerve the turn, where the Tongue learnt, is conſtantly ſpo<g ref="char:EOLhyphen"/>ken, and exerciſed diligently.</p>
+               <p>
+                  <hi>Comenius</hi> hath preſcribed a Method for the gaining the <hi>Copia Verborum,</hi> beyond what I have ſeen.</p>
+               <p>His <hi>Veſtibulum,</hi> and <hi>Orbis pictus</hi> contain the primitive words.</p>
+               <p>His Lexicon <hi>Januale</hi> teaches to Decline Derivatives from their Primitives,</p>
+               <p>His <hi>Janua</hi> comprehends Primitives, and Derivatives in their proper ſignification,</p>
+               <p>His <hi>Atrium</hi> teaches the <hi>Elegancy,</hi> and <hi>Idiom</hi> of the Tongue.</p>
+               <p>The advantage, a Scholar ſhall have from this Method, will be this:</p>
+               <p n="1">1. From the <hi>Janua,</hi> perfectly learnt in <hi>Latin,</hi> and <hi>Greek,</hi> any other Languages may be quickly attained;</p>
+               <p n="2">2. Things may be learnt with Words by ſhewing the things themſelves from Repoſitories, by uſing <hi>Maps,</hi> and <hi>Globes,</hi> and <hi>Pictures,</hi> where the things them<g ref="char:EOLhyphen"/>ſelves cannot be had; or the things may be deſcribed (as the Learner is ca<g ref="char:EOLhyphen"/>pable). This will make <hi>Learning</hi> pleaſant.</p>
+               <p>Doubtleſs one thus Inſtructed in the knowledge of things, and initiated in all Acts, and Sciences (eſpecially in <hi>Arithmetick,</hi> and <hi>Geometry</hi>) is like to make a better pro<g ref="char:EOLhyphen"/>greſs, when he is advanced to the Univerſity; or probably will be a wiſer man, when he is otherwaies diſpoſed of in the world, then another, who learns only
+<pb n="8" facs="tcp:61856:5" rendition="simple:additions"/>
+                  <hi>Appellatives,</hi> and a little <hi>Hiſtory,</hi> but knows nothing of things: ſeeing he hath ſaid the Foundation of real Knowledge; and will improve it by his daily converſe in the World.</p>
+               <p>The School may be made <hi>Ludus literarius,</hi> by a prudent uſe of School-mony: <hi>Thoſe, that are diligent, will have moſt Mony; Thoſe, that have moſt mony, ſhall have moſt Honour; The moſt honourable, ſhall have most liberty for Play.</hi> This is certain, If Chil<g ref="char:EOLhyphen"/>dren can be made diligent, they will imprint things in their memories as faſt as men. Theſe waies propoſed (without any ſeverity, unleſs in caſes of contempt) will cer<g ref="char:EOLhyphen"/>tainly effect it.</p>
+               <p>They may be alſo diverted by Bodily exerciſes, as, <hi>Dauncing, Fencing, Vaulting, Riding,</hi> which give a graceful garb, and increaſe bodily ſtrength.</p>
+               <p>They may be incouraged, as their <hi>Genius</hi> ſhall lead them. In <hi>Painting, Limning, Etching, Turning,</hi> and ſuch like Devices.</p>
+               <p>
+                  <hi>Thoſe, that deſire to ſee more of this Subject, may conſult a</hi> Grammar, <hi>and an</hi> A<g ref="char:EOLhyphen"/>pology, <hi>compoſed by</hi> M. Lewis, <hi>and ſold by</hi> Tho. Parkhurſt <hi>at the</hi> Bible <hi>and</hi> Three Crowns <hi>in</hi> Cheapſide, <hi>and by</hi> M. Million <hi>at the</hi> Bible <hi>in</hi> Fleet-ſtreet; <hi>or they may be further ſatisfied by the Author, upon any</hi> Thurſday <hi>at three of the Clock in the After-noon, at the</hi> Tun <hi>and</hi> Bolt <hi>in</hi> Fleet-ſtreet. <hi>Who undertakes to perfect any Perſon, that will attend him there, in a few daies, in the plain part of</hi> Grammar; <hi>and in a few hours, in the exact skill of</hi> Pointing.</p>
+               <p>
+                  <hi>At</hi> Tottenham High-Croſs <hi>there is a</hi> GYMNASIUM <hi>Erecting, where any Perſon Young or Old, as their Quality is, may be perfected in</hi> Grammar <hi>according to this Me<g ref="char:EOLhyphen"/>thod, and in the</hi> Tongues <hi>by conſtant converſation, and may alſo be inſtructed in</hi> Ex<g ref="char:EOLhyphen"/>perimental Philoſophy <hi>by</hi> Viſibles, <hi>in</hi> Hiſtory, Rhetorick, Muſick, Bodily exer<g ref="char:EOLhyphen"/>ciſes, Painting, <hi>The</hi> Mathematicks, <hi>As</hi> Aſtronomy, Geography, Geometry, Arithmetick, Fair Writing, <hi>in a ſhort and compendious Method, as may further appear by the</hi> Grammar <hi>and</hi> Apology, <hi>before ſpoken of.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>I <hi>Should have ſpoken more diſtinctly to a</hi> principal Verb: <hi>upon which the whole proceſs depends. A</hi> principal verb <hi>is twofold:</hi> abſolutely principal; <hi>or</hi> comparatively. <hi>A verb</hi> abſolutely principal <hi>expreſtes the</hi> ſtate, <hi>or</hi> motion <hi>of a</hi> Subject; <hi>or affects an</hi> Object <hi>not treated of in a former Period, its</hi> Clauſe <hi>ſhall begin with a Great Letter, and ſhall have a</hi> Periodus Supina <hi>before it, as,</hi> God created the World. Man rules over the Creatures. The Sun ſhines in the Firmament. <hi>A verb</hi> comparatively principal <hi>expreſſes the</hi> ſtate, <hi>or</hi> motion <hi>of a</hi> Subject; <hi>or affects an</hi> Object <hi>immediately ſpoken of before,</hi> i.e. <hi>relates to the ſame maner, as the former Period doth, yet it is a</hi> principal verb: <hi>becauſe it is no</hi> member <hi>of a Period; neither is it tacked on by a</hi> Conjunction <hi>to a former Clauſe, it doth indeed relate to a former Period: for</hi> Periods <hi>may have the ſame reſpect to Periods, as</hi> Clauſes <hi>have to Clauſes, neither is it</hi> abſolutely principal: <hi>becauſe it will eaſily reſolve into a</hi> depending verb. <hi>This</hi> Period <hi>ſhall begin with a ſmall Letter, and ſhall have a</hi> Periodus pendens <hi>be<g ref="char:EOLhyphen"/>fore it: becauſe the</hi> ſenſe <hi>yet hangs. As that of</hi> Saluſt. Mans excellency conſiſts in his Soul, and Body. The Soul commands, the Body obeys. In this we are like to God, in that to Beaſts. <hi>It reſolves thus.</hi> Our excellency conſiſts, either in our Souls, by which we command like God; or Bodies, with which we work like Bruits.</p>
+            <div type="part">
+               <head>Take a Scheme for POINTING thus.</head>
+               <p>So many <hi>finite Verbs</hi> there are in any diſcourſe, ſo many <hi>ſtops</hi> muſt be made, and no <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re, unleſs by accident. So many <hi>principal Verbs,</hi> ſo many <hi>principal Points</hi> or Periods. So many depending Verbs, ſo many depending Points. As, a <hi>protaſis,</hi> and <hi>apodoſis</hi> are diſtin<g ref="char:EOLhyphen"/>guiſhed by a <hi>Colon, membra dividentia</hi> by a <hi>ſub-Colon.</hi> Sentences united by a Conjunction, which are not <hi>membra dividentia,</hi> are diſtinguiſhed by a <hi>Comma,</hi> Exegetical expreſsions, the Infinitive Mood, intercepting Clauſes, occaſion a <hi>ſub-Comma,</hi> if ſuch a diſtinction might be granted, and may be marked by a ſtreight line, thus (<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>). Let this <hi>Poſtſcript</hi> be a <hi>praxis.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
